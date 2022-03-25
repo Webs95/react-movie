@@ -4,6 +4,8 @@
 
   React.js  
   
+  OMDb API  
+  
   Materialize  
   
   CSS  
