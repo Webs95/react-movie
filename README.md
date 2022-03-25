@@ -10,4 +10,4 @@
   
   CSS  
     
-   View result: https://webs95.github.io/react-movie/
+   View result [Click!](https://webs95.github.io/react-movie/)
