@@ -7,4 +7,5 @@
   Materialize  
   
   CSS  
-  
+    
+   View result: https://webs95.github.io/react-movie/
